@@ -1,0 +1,7 @@
+{
+  "name": "Miss Nour: Connect 6 Virtual Classroom",
+  "description": "A comprehensive interactive platform for Grade 6 Primary English (Egypt), featuring all lessons, skills tests, and live voice conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
